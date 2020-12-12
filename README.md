@@ -6,9 +6,9 @@
 Sou Cleverson, um desenvolvedor brasileiro de 26 anos e sou apaixonado por tecnologia, comunidades e tudo o mais. Adoro aprender e contribuir de todas as formas possíveis.
 
 Mais sobre mim:
-- :rocket: I’m currently working on [@DBServer](https://www.linkedin.com/company/dbserver)
+- :rocket: Atualmente estou trabalhando em [@DBServer](https://www.linkedin.com/company/dbserver)
 - :star: Curiosidade: minha série favorita é Sobrenatural e assisto animes em meu tempo livre.
-- 💬  Ask me about anything [here](https://github.com/clevsampaio/clevsampaio/issues)
+- 💬  Me pergunte sobre qualquer coisa [aqui](https://github.com/clevsampaio/clevsampaio/issues)
 <br/>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/clevsampaio)](https://github.com/clevsampaio)
